@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noyAnaor
-- 👀 I’m interested in Linux bases systems,computer networks and web development
+- 👀 I’m interested in Linux based systems,computer networks and web development
 - 🌱 I’m currently learning MERN Stack
 
 ### Languages and Tools:
