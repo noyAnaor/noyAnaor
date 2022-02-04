@@ -6,11 +6,15 @@
 
 
 
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/noyAnaor/Images/blob/main/python-5.svg?raw=true"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/noyAnaor/Images/blob/main/c-programming.png"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/noyAnaor/Images/blob/main/c++.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="React" width="40px" src="https://github.com/noyAnaor/Images/blob/main/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business.png"/>
+<img align="left" alt="MongoDB" width="40px" src="https://github.com/noyAnaor/Images/blob/main/2507930-middle.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/noyAnaor/Images/blob/main/github.svg" />
+
+
 <br />
 <br />
 ### Softwares:
